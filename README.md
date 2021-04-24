@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ArtisticZhao/ArtisticZhao/master/pic/Hi.gif" width="30px">, I'm Artistic Zhao
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/ArtisticZhao)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sachin93@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hit.yuhaozhao@gmail.com)
 [![homepage](https://img.shields.io/badge/-ethereal.work-black?style=flat&logo=homeadvisor&logoColor=white)](https://ethereal.work)
 
 <!--
@@ -50,11 +50,10 @@ Here are some ideas to get you started:
 
 <table border="0">
    <tr>
-       <td><img src="https://github-readme-stats.vercel.app/api?username=artisticzhao"></td>
        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artisticzhao&layout=compact&hide=VHDL,javascript&langs_count=10"></td>
+       <td><img src="https://github-readme-stats.vercel.app/api?username=artisticzhao"></td>
    </tr>
 </table>
-
 
 ### 📚 Repositories
 
