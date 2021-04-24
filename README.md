@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 #### SoC/FPGA
 
 - **[intelligent_RF_ZCU111](https://github.com/ArtisticZhao/intelligent_RF_ZCU111)**  
-毕设，使用OpenCV在Zynq PS实现图像识别，识别结果通过PL段RFdc使用BPSK调制发送
+毕设，使用OpenCV在Zynq PS实现图像识别，识别结果通过PL端RFdc使用BPSK调制发送
 - **[rfnoc-qpsk](https://github.com/ArtisticZhao/rfnoc-qpsk)**  
 使用UHD-RFNoC，使得USRP-E312可以在FPGA内部解调QPSK信号
 
@@ -77,6 +77,7 @@ PyQt5实现Beidou_RDSS模块的上位机程序
 元胞自动机，实现数学建模美赛2019年D题算法仿真
 
 #### C++
+
 - **[opencv_laser](https://github.com/ArtisticZhao/opencv_laser)**  
 基于opencv的激光三角法测量系统
 - **[openGL_3D_Reconstruction](https://github.com/ArtisticZhao/openGL_3D_Reconstruction)**  
