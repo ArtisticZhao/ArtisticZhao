@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :rocket: I'm an **Aeronautical and Astronautical Science and Technology** postgraduate student.
+- :rocket: Master degree of **Aeronautical and Astronautical Science and Technology**.
 - 🔭 I’m currently working on **communication payload of satellites**.
 - 🌱 I’m currently learning **Zynq development**.
 
